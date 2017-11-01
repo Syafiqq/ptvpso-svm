@@ -3,7 +3,7 @@ package com.github.syafiqq.ptvpso.svm.stroke.dataset;
 import java.util.Arrays;
 
 /**
- * This <ptvpso-svm> created by :
+ * This ptvpso-svm created by :
  * Name         : syafiq
  * Date / Time  : 29 August 2016, 10:24 PM.
  * Email        : syafiq.rezpector@gmail.com

@@ -1,7 +1,7 @@
 package com.github.syafiqq.ptvpso.svm.stroke.dataset;
 
 /**
- * This <ptvpso-svm> created by :
+ * This ptvpso-svm created by :
  * Name         : syafiq
  * Date / Time  : 29 August 2016, 10:05 PM.
  * Email        : syafiq.rezpector@gmail.com
