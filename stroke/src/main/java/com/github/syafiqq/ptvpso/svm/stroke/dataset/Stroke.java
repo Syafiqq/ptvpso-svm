@@ -1,7 +1,7 @@
 package com.github.syafiqq.ptvpso.svm.stroke.dataset;
 
 /**
- * This <AppStroke> project in package <id.ac.ub.filkom.sekcv.appstroke.model.dataset> created by :
+ * This <ptvpso-svm> created by :
  * Name         : syafiq
  * Date / Time  : 02 September 2016, 10:42 AM.
  * Email        : syafiq.rezpector@gmail.com

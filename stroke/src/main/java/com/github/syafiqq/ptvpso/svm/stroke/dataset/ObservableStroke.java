@@ -3,7 +3,7 @@ package com.github.syafiqq.ptvpso.svm.stroke.dataset;
 import java.util.Observable;
 
 /**
- * This <AppStroke> project in package <id.ac.ub.filkom.sekcv.appstroke.model.adapter> created by :
+ * This <ptvpso-svm> created by :
  * Name         : syafiq
  * Date / Time  : 09 September 2016, 12:37 PM.
  * Email        : syafiq.rezpector@gmail.com

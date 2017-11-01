@@ -5,7 +5,7 @@ import com.github.syafiqq.ptvpso.svm.stroke.algorithm.svm.method.oaa.Parameter;
 import com.github.syafiqq.ptvpso.svm.stroke.dataset.StrokeParameter;
 
 /**
- * This <AppStroke> project in package <id.ac.ub.filkom.sekcv.appstroke.model.algorithm.svm.core> created by :
+ * This <ptvpso-svm> created by :
  * Name         : syafiq
  * Date / Time  : 29 August 2016, 11:24 PM.
  * Email        : syafiq.rezpector@gmail.com
